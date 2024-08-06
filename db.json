@@ -1,0 +1,31 @@
+{
+  "students": [
+    {
+      "id": "110",
+      "studentName": "Sutharsan M",
+      "studentclg": "KSR College of Engineering",
+      "studentdept": "CSE",
+      "studentroomno": "238",
+      "currentdate": "2024-08-06",
+      "studentPA": "p"
+    },
+    {
+      "id": "26",
+      "studentName": "Dilip",
+      "studentclg": "KSRCE",
+      "studentdept": "CSE",
+      "studentroomno": "240",
+      "currentdate": "2024-08-06",
+      "studentPA": "P"
+    },
+    {
+      "id": "34",
+      "studentName": "Jon",
+      "studentclg": "SONA",
+      "studentdept": "CSE",
+      "studentroomno": "236",
+      "currentdate": "2024-08-06",
+      "studentPA": "A"
+    }
+  ]
+}
